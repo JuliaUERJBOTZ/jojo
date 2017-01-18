@@ -1,0 +1,8 @@
+Version 2.0
+============================
+  - New Feature:User can manage backup from the Dashboard
+
+Version 1.0
+============================
+  - Initial version
+

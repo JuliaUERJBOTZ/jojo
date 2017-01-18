@@ -1,0 +1,72 @@
+/* Search box and search not found*/
+.searchClassName{
+	font-family:myFont, Arial;
+	font-size:14px !important;
+	color:#aaaaaa !important;
+	padding:8px !important;
+	padding-top:7px !important;
+	padding-right:28px !important;
+	font-weight:800 !important;
+	letter-spacing:1px;
+	outline-width: 0;
+	background: url("../content/icons/search-white.png") no-repeat 94% 48%  !important; 
+	border: 1px solid #666666 !important;
+	background-color: white !important;
+}
+
+.searchNotFound{
+	font-family:myFont, Arial;
+	font-size:14px;
+	color:#aaaaaa !important;
+	padding:8px !important;
+	padding-top:7px !important;
+	font-weight:800 !important;
+	letter-spacing:1px;
+}
+
+/* Thumbnails content */
+.centerDark{
+	font-family:myFont, Arial;
+	color:#000000;
+	text-align:center;
+	font-size:20px;
+	font-weight:600;
+	padding:0px;
+	margin:0px;
+	margin-left:10px;
+	margin-right:10px;
+	text-transform: uppercase;
+}
+
+/* Lightbox */
+.gallery1DecHeader{
+	font-family:myFont, Arial;
+	font-size:22px;
+	margin:8px;
+	color:#666666;
+	font-weight:bold;
+}
+
+.gallery1DescP{
+	font-family:Arial;
+	font-size:14px;
+	margin:8px;
+	margin-top:6px;
+	margin-bottom:6px;
+	color:#555555;
+	line-height:18px;
+}
+
+.extraContentIconsHolder{
+	background-color:#FFFFFF;
+	width:100%;
+	padding-bottom:5px;
+}
+
+.extraContentIconsHolder2{
+	width:120px;
+	margin:0px;
+	padding:0px;
+	margin:auto;
+	
+}
